@@ -1,4 +1,5 @@
-== Tests ==
+## Tests
+
 Each ZIP file in this directory is named in this format:
 
 a-b-c.zip
@@ -8,7 +9,7 @@ a: Either kpt ("known plaintext") or enc ("encrypted")
 b: Compressing program and options
 c: Source files
 
-=== Programs and options ===
+### Programs and options
 Currently test files are produced by:
 
 1. Info-Zip via [Gentoo x86_64 package](https://packages.gentoo.org/packages/app-arch/zip)
